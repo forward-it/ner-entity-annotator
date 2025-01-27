@@ -4,7 +4,7 @@ A Streamlit component for visualizing and modifying Named Entity Recognition (NE
 <img src="https://github.com/forward-it/ner-entity-annotator/raw/main/example.png" width="893">
 
 ### Key Features:
-- **Visualization**: Displays NER annotations in a clear and intuitive span style.
+- **Visualization**: Displays NER annotations in a clear and intuitive style.
 - **Interactivity**: Allows you to modify NER annotations directly in the interface.
 
 The implementation leverages code partially ported from Python to React, inspired by the [spaCy repository](https://github.com/explosion/spaCy/tree/master/spacy/displacy).
