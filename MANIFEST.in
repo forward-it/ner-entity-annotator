@@ -1,0 +1,1 @@
+recursive-include ner_span_annotator/frontend/build *
